@@ -1,0 +1,42 @@
+*{
+    margin: 0%;
+    padding: 0%;
+}
+.caja1{
+background-color: rgb(53, 178, 228);
+color: white;
+}
+
+nav{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    font-weight: bold;
+}
+
+h1{
+    color: white;
+    font-size: 45px;
+
+}
+
+ul li{
+    display: inline-block;
+    padding: 0px 20px;
+}
+
+a{
+color: white;
+}
+
+a:hover{
+    color: red;
+}
+body{
+    background-color: chartreuse;
+}
+
+.gg{
+    width: 550px;
+    height: 350px;;
+}
